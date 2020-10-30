@@ -4,6 +4,7 @@
              x:Class="Semana3.Login">
     <ContentPage.Content>
         <StackLayout>
+            
             <Label Text="Login"
                 VerticalOptions="Center" 
                  />
